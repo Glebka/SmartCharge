@@ -1,0 +1,1 @@
+set(ARDUINO_BOARD "Arduino Uno [avr.uno]") # Arduino Uno

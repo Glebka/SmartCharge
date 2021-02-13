@@ -1,0 +1,18 @@
+* text=auto
+
+
+*.bat       text    eol=crlf
+*.sh        text    eol=lf
+*.bash      text    eol=lf
+
+*.c         text
+*.cpp       text
+*.cxx       text
+*.json      text
+*.py        text
+*.cmake     text
+
+
+*.md        text
+
+*.exe       binary
